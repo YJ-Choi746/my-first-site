@@ -1,6 +1,6 @@
 # J의 첫 저장소
 
-<img src="https://octodex.github.com/images/original.png" alt="옥토캣" width="200">
+<img src="https://octodex.github.com/images/original.png" alt="옥토캣" width="300">
 
 | 항목 | 내용 |
 |---|---|
